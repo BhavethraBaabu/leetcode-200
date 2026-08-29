@@ -8,4 +8,4 @@ class Solution:
                 count[ord(c)-97]+=1
             key = tuple(count)
             dict[key].append(s)
-        return list(dict.values())    
+        return list(dict.values())
