@@ -6,4 +6,3 @@ class Solution:
                 return True
             hash.add(n)
         return False
-    
